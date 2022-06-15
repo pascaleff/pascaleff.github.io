@@ -8,4 +8,4 @@
   
   I am migrating my website here from a gitlab instance (jpascale.pages.math.illinois.edu) that is being decommissioned.
 
-  The domain [pascaleff.com](pascaleff.com) should always point you to the right place.
+  The domain [pascaleff.com](https://pascaleff.com) should always point you to the right place.
