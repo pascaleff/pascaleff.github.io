@@ -1,8 +1,8 @@
 # James Pascaleff
 
-  - Associate Professor
-  - Department of Mathematics
-  - University of Illinois
+  - Associate Professor, [Department of Mathematics](http://math.illinois.edu), [University of Illinois](http://illinois.edu).
+  - Office: 357 Altgeld Hall
+  - Email: [jpascale@illinois.edu](mailto:jpascale@illinois.edu)
 
   pascaleff.github.io is my new website.
   
