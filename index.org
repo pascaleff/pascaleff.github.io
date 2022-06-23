@@ -10,6 +10,7 @@ Associate Professor\\
 
 I am a mathematician working on symplectic topology and mirror symmetry.
 
+You can see my [[file:cv.html][full CV here]].
 
 * Courses
 
@@ -64,8 +65,4 @@ I am a mathematician working on symplectic topology and mirror symmetry.
 - 2011--2014: Postdoctoral Fellow, Geometry and Topology RTG, University of Texas at Austin.
 - 2006--2011: Graduate Student, MIT (PhD 2011, advisor: [[http://www.math.harvard.edu/~auroux/][Denis Auroux]]).
 - 2002--2006: Undergraduate, University of Chicago (AB 2006).
-
-You can see my [[file:cv.html][full CV here]].
-
-* [[file:statement.html][*A statement of support*]]
 
