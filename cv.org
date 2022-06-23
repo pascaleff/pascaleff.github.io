@@ -1,0 +1,267 @@
+#+TITLE: Curriculum Vitæ of James Pascaleff
+
+* Contact
+University of Illinois at Urbana-Champaign\\
+Department of Mathematics\\
+1409 W. Green Street\\
+Urbana, IL 61801
+
+Office: 357 Altgeld Hall\\
+Telephone: +1 217 244 7277\\
+Email: [[mailto:jpascale@illinois.edu][jpascale@illinois.edu]]\\
+Website: [[http://jpascale.pages.math.illinois.edu][jpascale.pages.math.illinois.edu]]
+
+* Employment
+  - August 2014--Present: University of Illinois at Urbana-Champaign :: Associate Professor (with tenure) from August 16, 2020. Formerly: Assistant Professor.
+  - August 2011--August 2014: University of Texas at Austin :: Instructor and RTG Postdoctoral Fellow
+** Visiting positions
+  - January--April 2022: Scuola Internazionale Superiore di Studi Avanzati (SISSA), Trieste :: Visitor
+  - January--April 2017: Institute for Advanced Study, Princeton, NJ :: Member, School of Mathematics
+  - September--November 2015: Institut Mittag-Leffler, Djursholm, Sweden :: Participant in the program "Sympletic Geometry and Topology"
+  - June--August 2014: Max-Planck-Institut für Mathematik, Bonn :: Guest  
+  - July--August 2013: King's College London :: Visiting Research Associate
+
+* Education
+  - Ph.D. in Mathematics (2011) Massachusetts Institute of Technology ::
+       Thesis: /Floer cohomology in the mirror of the projective plane
+       and a binodal cubic curve/.
+       (Defended April 15, 2011; advisor: Denis Auroux)
+  - A.B. in Mathematics (2006) University of Chicago :: with honors.
+
+* Grants awarded
+  - 2014--2017 NSF award, /Symplectic Cohomology, log Calabi--Yau Varieties, and equivariant Lagrangian Submanifolds./ 
+  - 2019--2024 Simons Foundation, Collaboration Grant, /Fukaya categories: wall-crossing, quantization, and higher categorical structures./
+
+* Honors & fellowships
+  - RTG Postdoctoral Fellowship (part of NSF grants DMS-0636557 and DMS-1148490) (2011--2014)
+  - MIT Presidential Fellowship (2006--2007)
+  - Paul R. Cohen Memorial Prize (Senior Mathematics prize at the University of Chicago) (2006)
+  - Phi Beta Kappa, member, Beta of Illinois chapter (2005)
+  - Sigma Xi, associate member, University of Chicago chapter (2005)
+  - University of Chicago National Merit Scholarship (2002--2006)
+
+* Research interests
+  Symplectic geometry and topology, Floer theory, and homological mirror symmetry.
+
+* Publications
+  1. Floer cohomology in the mirror of the projective plane and a
+     binodal cubic curve. /Duke Math. J./ Volume 163, Number 13 (2014), pp. 2427--2516.  ([[http://arxiv.org/abs/1109.3255][arXiv:1109.3255]])
+  2. On the symplectic cohomology of log Calabi--Yau surfaces. /Geom. Topol./ Volume 23, Issue 6 (2019), pp. 2701--2792. ([[http://arxiv.org/abs/1304.5298][arXiv:1304.5298]])
+  3. (with Yankı Lekili) Floer cohomology of g-equivariant Lagrangian branes. /Compositio Math./ Volume 152, Issue 05 (2016), pp. 1071--1110. ([[http://arxiv.org/abs/1310.8609][arXiv:1310.8609]])
+  4. (with Nicolò Sibilla) Topological Fukaya category and mirror symmetry for punctured surfaces. /Compositio Math./ Volume 155, Issue 3 (2019), pp. 599--644. ([[https://arxiv.org/abs/1604.06448][arXiv:1604.06448]])  
+  5. (with Dmitry Tonkonog) The wall-crossing formula and Lagrangian mutations. /Adv. Math./ Volume 361, 12 February 2020, 106850. ([[https://arxiv.org/abs/1711.03209][arXiv:1711.03209]])
+  6. Poisson geometry, monoidal Fukaya categories, and commutative Floer cohomology rings. ([[https://www.arxiv.org/abs/1803.07676][arXiv:1803.07676]], submitted)
+  7. (with Nicolò Sibilla) Fukaya categories of higher-genus surfaces and pants decompositions. ([[https://arxiv.org/abs/2103.03366][arXiv:2103.03366]])
+
+* Talks
+  1. Dec. 2010, Northern California Symplectic Geometry Seminar, Stanford University.\\
+     /Floer cohomology in the mirror of CP^2 relative to a conic and a line./
+  2. Jan. 2011, Workshop on Homological Mirror Symmetry and Related
+     Topics, University of Miami (Florida).\\
+     /Floer cohomology in the mirror of CP^2 relative to a conic and a line./
+  3. Jan. 2011, Gauge Theory and Topology Seminar, Harvard
+     University.\\
+     /Floer cohomology in the mirror of CP^2 relative to a conic and a line./
+  4. Feb. 2011, Symplectic Geometry, Gauge Theory and
+     Categorification Seminar, Columbia University.\\
+     /Floer cohomology in the mirror of CP^2 relative to a conic and a line./
+  5. Apr. 2011, Geometry Seminar, University of Texas at Austin.\\
+     /Floer cohomology in the mirror of CP^2 relative to a conic and a line./
+  6. May 2011, Equivariant Quantum Cohomology, Mirror Symmetry and
+     Symplectic Geometry Workshop, Simons Center for Geometry and
+     Physics.\\
+     /On Wrapped Floer Cohomology and Mirror Symmetry for Complements of Divisors./
+  7. Oct. 2011, Geometry Seminar, Texas A&M University.
+  8. Dec. 2012, Mirror Symmetry Seminar, Kansas State University.\\
+     /Some apects of Floer theory on Log Calabi-Yau surfaces./
+  9. Mar. 2013, Differential Geometry Seminar, Cambridge University.\\
+     /On the symplectic geometry of Log Calabi-Yau surfaces./
+  10. May 2013, Geometry Seminar, University of Texas at Austin.\\
+      /On the symplectic cohomology of log Calabi-Yau surfaces./
+  11. Nov. 2013, Geometry Seminar, Texas A&M University.\\
+      /Symplectic cohomology and equivariant Lagrangian submanifolds./
+  12. Nov. 2013, Geometry and Topology Seminar, University of Massachusetts Amherst.\\
+      /Symplectic cohomology and equivariant Lagrangian submanifolds./
+  13. Jan. 2014, Conference on Homological Mirror Symmetry, University of Miami (Florida).\\
+      /Equivariant Lagrangian branes and representations./
+  14. Feb. 2014, Colloquium, University of Illinois at Urbana-Champaign.\\
+      /Equivariant structures in mirror symmetry and distinguished bases from symplectic geometry./
+  15. May 2014, Equivariant Gromov-Witten Theory and Applications workshop, Simons Center for Geometry and Physics.\\
+      /Symplectic cohomology and equivariant Lagrangian branes./
+  16. Jul. 2014, Mathematical Landings: A Norman conference in geometry and representation theory, Lingeard, France.\\
+      /Symplectic cohomology and equivariant Lagrangian branes./ [[http://faculty.math.illinois.edu/~jpascale/la-manche-libre.pdf][Media coverage.]]
+  17. Sep. 2014, Symplectic and Poisson Geometry Seminar, University of Illinois at Urbana-Champaign.\\
+      /Symplectic cohomology and its role in mirror symmetry./
+  18. Oct. 2014, Princeton/IAS Symplectic Geometry Seminar, Institute for Advanced Study.\\
+      /Equivariant structures in mirror symmetry./
+  19. Dec. 2014, UIUC-WUSTL Symplectic Geometry Seminar, Urbana, Illinois.\\
+      /Symplectic cohomology of log Calabi-Yau manifolds./
+  20. Jan. 2015, Topology and Geometry Seminar, Hebrew University, Jerusalem.\\
+      /Equivariant Lagrangian branes and representations./
+  21. Mar. 2015, Geometry, Groups and Dynamics/GEAR Seminar, University of Illinois at Urbana-Champaign.\\
+      /How can you have dynamics when all you have is a category?/
+  22. Mar. 2015, Introduction to Graduate Mathematics Seminar, University of Illinois at Urbana-Champaign.\\
+      /Triangles and the theta series/
+  23. May 2015, Symplectic Geometry Seminar, Stanford University.\\
+      /Equivariant Lagrangians and representations./
+  24. Sep. 2015, Symplectic Geometry and Topology Program Seminar, Institut Mittag-Leffler, Djursholm, Sweden.\\
+      /Gluing Fukaya categories associated to ribbon graphs./
+  25. Oct. 2015, Geometry and Quantum Theory Colloquium, Woudschoten, Zeist, The Netherlands.\\
+      /Symplectic cohomology and mirror symmetry./
+  26. Nov. 2015, Edinburgh Geometry Seminar (EDGE), Edinburgh Hodge Institute, Scotland.\\
+      /Equivariant structures on Lagrangian submanifolds./
+  27. Dec. 2015, Mirror Symmetry and Symplectic Geometry Conference, Kyoto University, Japan.\\
+      /Wrapped Floer cohomology and Equivariant Mirror Symmetry./ (150 minute lecture series)
+  28. Feb. 2016, Symplectic and Poisson Geometry Seminar, University of Illinois at Urbana-Champaign.\\
+      /Gluing Fukaya categories of Riemann surfaces./
+  29. Mar. 2016, Conference on Mirror Symmetry and Wall-Crossing, UC Berkeley.\\
+      /Symplectic geometry of scattering diagrams for log CY surfaces./
+  30. Jul. 2016, Emmy Noether Kolloquium, Johannes Gutenberg University, Mainz, Germany.\\
+      /Symplectic cohomology and wall crossing./
+  31. Jul. 2016, Symplectic working group seminar, Cambridge University.
+  32. Sep. 2017, Symplectic and Poisson Geometry Seminar, University of Illinois at Urbana-Champaign.\\
+      /Relative Floer theory and wall-crossing./
+  33. Sep. 2017, AMS Fall Southeastern Sectional Meeting, Special Session on Symplectic and Contact Topology and Dynamics, University of Central Florida.\\
+      /Fukaya categories and Poisson geometry./
+  34. Oct. 2017, Back Porch Seminar, Austin, TX.\\
+      /Relative Floer theory and wall-crossing./
+  35. Oct. 2017, Geometry Seminar, University of Texas at Austin.\\
+      /Commutativity and noncommutativity in Floer theory./
+  36. Oct. 2017, Algebraic Geometry Seminar, University of Chicago.\\
+      /2D topological field theories from algebraic and symplectic geometry (expository talk)./
+  37. Nov. 2017, Algebraic Geometry Seminar, University of Chicago.\\
+      /Symplectic geometry and theta functions./
+  38. Dec. 2017, Workshop on Categorification, Representation Theory, and Symplectic Geometry, Hausdorff Research Institute for Mathematics, Bonn.\\
+      /Poisson geometry and monoidal Fukaya categories./
+  39. Feb. 2018, Symplectic and Poisson Geometry Seminar, University of Illinois at Urbana-Champaign.\\
+      /Symplectic groupoids and monoidal Fukaya categories./
+  40. Apr. 2018, Introduction to Graduate Mathematics Seminar, University of Illinois at Urbana-Champaign.\\
+      /Symplectic geometry and categorification./
+  41. Jun. 2018, Focus Program on Poisson Geometry and Physics, The Fields Institute.\\
+      /Structures in the Floer theory of symplectic Lie groupoids./ (Mini-course, approximately 6 hours)
+  42. Jul. 2018, A Symplectic Cut, a joint seminar of King's College London and University College London.\\
+      /Symplectic groupoids and monoidal Fukaya categories./
+  43. Oct. 2018, IAS/PU Symplectic Geometry and Dynamics Seminar, Institute for Advanced Study, Princeton, NJ.\\
+      /Structures in the Floer theory of symplectic Lie groupoids./
+  44. Oct. 2018, Geometry and Physics Seminar, Northwestern University.\\
+      /Wall-crossing formulas for Lagrangian mutations./ Pre-talk: /Monotone Lagrangians and disk counting./
+  45. Oct. 2018, Conference on Wall-crossing formula, open Gromov-Witten invariants and related areas, Institute for Basic Science/Center for Geometry and Physics, Pohang University of Science and Technology, Pohang, Korea.\\
+      /Wall-crossing formulas for Lagrangian mutations./
+  46. Feb. 2019, Mathematics Inspired by String Theory (MIST) 2019 Workshop II, Chinese University of Hong Kong.\\
+      /Structures in the Floer theory of symplectic Lie groupoids./
+  47. Mar. 2019, Mathematics Colloquium, Indiana University.\\
+      /Lagrangian submanifolds and disk counting./
+  48. Mar. 2019, Number Theory and Algebraic Geometry Seminar, Boston College.\\
+      /Lagrangian submanifolds, disk counting, and wall-crossing./
+  49. Apr. 2019, Symplectic Representation Theory, CIRM Luminy, France.\\
+      /On monoidal structures on Fukaya categories./
+  50. Apr. 2019, Symplectic Geometry, Gauge Theory, and Categorification Seminar, Columbia University.\\
+      /On monoidal structures on Fukaya categories./
+  51. Aug. 2019, International Conference on Symplectic Topology, IMPA, Rio de Janeiro, Brazil.\\
+      /On the Floer-theoretic nature of canonical bases./
+  52. Dec. 2019, Hodge Institute, University of Edinburgh, Scotland.\\
+      /Moduli spaces of Lagrangians in symplectic topology and mirror symmetry./
+  53. Jan. 2020, International Workshop on Symplectic Geometry, Sun Yat-sen University, Guangzhou, China.\\
+      /Moduli spaces of Lagrangians in symplectic topology and mirror symmetry./ (Three-hour lecture series)
+  54. Oct. 2020, Winter School "Connections between representation theory and geometry," Hausdorff Research Institute for Mathematics.\\
+      /Introduction to Fukaya Categories./ (Three-hour minicourse)
+  55. Jun. 2021, Seminario de Geometría y Física Matemática, Universidad Católica del Norte (Chile) and Universidade de São Paulo (Brazil).\\
+      /Structures in the Floer theory of Symplectic Groupoids./
+  56. Jun. 2021, Braids, mutations and twists in algebra and geometry, Uppsala University.\\
+      /Moduli spaces of objects and wall-crossing for disk potentials./
+  57. Jun. 2021, Guest lecturer in a reading course on Fukaya categories, University of Vienna.\\
+      /Examples of Fukaya categories and mirror symmetry./ (Three hours)
+  58. Nov. 2021, Geometry and Physics Seminar, Northwestern University.\\
+      /Gluing Fukaya categories of surfaces and singularity categories./
+  59. Mar. 2022, Western Hemisphere Virtual Symplectic Seminar.\\
+      /Categories obtained from pants decompositions./
+  61. Apr. 2022, Virtual Joint Mathematics Meetings, AMS Special Session on Quantum Categorical Structures in Mirror Symmetry.\\
+      /Fukaya categories and pants decompositions of surfaces./
+
+
+* Teaching and Mentoring
+** Ph.D. student
+   - Jianting Jesse Huang (UIUC, Ph.D. 2021. Subsequent position: PIMS Postdoc at the University of Alberta)
+
+** UIUC
+   (*TRE* = List of teachers ranked as excellent by their students.)
+
+   - Fall 2021: Introduction to Abstract Algebra (MATH 417, 2 sections)^{*TRE*}
+   - Spring 2021: Introduction to Abstract Algebra (MATH 417, 2 sections)
+   - Spring 2020: Vector and Tensor Analysis (MATH 481)^{*TRE*}
+   - Fall 2019: Introduction to Abstract Algebra (MATH 417)^{*TRE*}
+   - Fall 2019: Riemann Surfaces and Algebraic Curves (MATH 510)^{*TRE*}
+   - Spring 2019: Illinois Geometry Lab Project, Homological Algebra of Quiver Representations (5 undergraduate researchers).
+   - Fall 2018: Illinois Geometry Lab Project, Geometric Group Actions on Categories (5 undergraduate researchers).
+   - Fall 2018: Calculus III (MATH 241, 2 sections)
+   - Spring 2018: Homological Mirror Symmetry (graduate topic course, MATH 595)^{*TRE*}
+   - Spring 2018: Introduction to Abstract Algebra (MATH 417)^{*TRE*}
+   - Fall 2017: General Topology (MATH 535)^{*TRE*}
+   - Fall 2016: Calculus III (MATH 241, 2 sections)
+   - Spring 2016: Riemann Surfaces and Algebraic Curves (MATH 510)
+   - Spring 2016: Introduction to Differential Equations (MATH 285)
+   - Spring 2015: Differentiable Manifolds II (MATH 519)
+   - Fall 2014: Introduction to Differential Equations (MATH 285, 2 sections)
+
+** SISSA
+   - Spring 2022: Topics in Homological Mirror Symmetry (20 hours)
+   
+** UT Austin
+   - Spring 2014: Lagrangian Floer Homology (graduate topic course, M 392C)
+   - Fall 2013: Differential and Integral Calculus (\sim120 students, M 408C)
+   - Spring 2013: Multivariable Calculus (\sim120 students, M 408M)
+   - Fall 2012: Advanced Calculus for Applications I (Differential equations and Fourier series, \sim120 students, M 427K)
+   - Spring 2012: Probability I (M 362K)
+   - Fall 2011: Sequences, Series, and Multivariable Calculus (\sim120 students, M 408D)
+
+** MIT
+   - Summer 2009:  Mentor for two students in SPUR.
+     - Emily Berger (MIT 2011), /Hurwitz equivalence in the dihedral group/.
+     - Colin Sandon (MIT 2012), /Curves in tropical geometry/.
+   - Spring 2009:  Recitation Instructor and Course Administrator for 18.02, Multivariable Calculus.
+   - Fall 2008: Recitation Instructor for 18.06, Linear Algebra.
+   - Summer 2008: Instructor for 18.085, Mathematical Methods for Engineers (first half).
+   - Spring 2008: Assistant for 18.821, Project Laboratory in Mathematics.
+   - Fall 2007: Grader for 18.100C, Analysis I with writing instruction.
+
+** U. of Chicago
+   - Summer 2019: Instructor, grades 11--12, U. of Chicago Young Scholars Program.
+   - Fall 2005: Grader for Honors Calculus (Math 161), Set Theory and Metric Spaces (Math 261).
+   - Summer 2005: Lead Counselor, grades 11--12, U. of Chicago Young Scholars Program.
+   - Winter--Spring 2005: Junior Tutor in Mathematics for Introductory Calculus (Math 152, 153).
+   - Summer 2003, 2004: Counselor, U. of Chicago Young Scholars Program.
+
+* Service activities
+** UIUC
+   - Organizer of Symplectic and Poisson Geometry Seminar (Fall 2016, AY 2018--19, AY 2019--20).
+   - Preliminary examination committees for Daan Michiels (March 5,
+     2015), Melinda Lanius (May 4, 2015), Sungwoo Nam (April 10,
+     2019), Nachiketa Adhikari (August 13, 2020), Shuyu Xiao (November
+     10, 2021), and Sambit Senapati (December 9, 2021).
+   - Final examination committees for Daan Michiels (March 27, 2018), Joel Villatoro (April 26, 2018), Matej Penciak (June 17, 2019; committee chair), Jesse Huang (May 5, 2021), and Yuxuan Zhang (May 27, 2022).
+   - Reviewer for the Campus Research Board.
+   - Mathematics Department Executive Committee (2020-2021). /This elected committee is responsible for all budgetary decisions, faculty hiring, and the yearly faculty evaluation for raises./
+   - Graduate affairs committee (2019--2020).
+   - Capricious grading committee (2019--2020).
+   - Altgeld/Illini renovation committee (2019--2021).
+   - Undergraduate affairs committee (2015--2019).
+   - Picnic committee (2014, 2018, 2021).
+
+** IAS
+   - Co-organizer, with Paul Seidel, of the "Workshop on Homological Mirror Symmetry: Emerging Developments and Applications," March 13--17, 2017, Institute for Advanced Study, Princeton, NJ. This was the spring workshop for the special year on homological mirror symmetry at IAS.
+   - Organized a reading group on higher genus Gromov-Witten theory at IAS in the Spring 2017 semester.
+
+** UT Austin 
+  - Co-organizer of the "Graduate Geometry and Topology Current Literature Seminar."
+
+** MIT
+  - Co-organizer of the /MIT-RTG Geometry workshop, with David
+    Nadler/, Breckenridge, CO, June 12-18, 2011.
+  - Organizer of a reading group on Ivan Smith's "Floer cohomology and pencils of quadrics," Fall 2010.
+  - Co-organizer of the /Graduate Symplectic Field Theory workshop mentored by Tobias Ekholm/ in Raymond, ME, August 30-September 3, 2010. (Funded by the MIT Geometry RTG.)
+  - Organizer of graduate student seminar /Symplectic Hunt/, Spring 2008--Spring 2009.
+
+    
+    
+
+  
