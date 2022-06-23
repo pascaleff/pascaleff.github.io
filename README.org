@@ -9,3 +9,5 @@
   I am migrating my website here from a [[http://jpascale.pages.math.illinois.edu][GitLab instance]] that is being decommissioned.
 
   The domain [[http://pascaleff.com][pascaleff.com]] should always point you to the right place.
+
+  The css stylesheets are derived from [[https://orgmode.org/worg/][orgmode.org/worg]] and are licensed under the [[http://www.gnu.org/licenses/gpl.html][GNU General Public License v3]] or later.
