@@ -1,5 +1,5 @@
-;; publish.el --- Publish org-mode project on Gitlab Pages
-;; Author: Rasmus
+;; publish.el --- publish org-mode project
+;; Modified by James Pascaleff from a similar script for GitLab by Rasmus
 
 ;;; Commentary:
 ;; This script will convert the org-mode files in this directory into
