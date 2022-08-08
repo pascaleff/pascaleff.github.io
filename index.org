@@ -36,10 +36,10 @@ You can see my [[file:cv.html][full CV here]].
 - My [[http://www.arxiv.org/a/Pascaleff_J_1][arXiv]] and [[http://scholar.google.com/citations?user=O_rkweQAAAAJ][google scholar]] pages.
 
 ** Research articles
-   - Singularity categories of normal crossings surfaces, descent, and mirror symmetry,\\
+   - [[https://faculty.math.illinois.edu/~jpascale/papers/dsing-divisors.pdf][Singularity categories of normal crossings surfaces, descent, and mirror symmetry]],\\
      with Nicolò Sibilla, to appear on arXiv.
 
-   - Fukaya categories of higher-genus surfaces and pants decompositions,\\
+   - [[https://faculty.math.illinois.edu/~jpascale/papers/pants.pdf][Fukaya categories of higher-genus surfaces and pants decompositions]],\\
      with Nicolò Sibilla, [[https://arxiv.org/abs/2103.03366][arXiv:2103.03366]].
 
    - [[https://faculty.math.illinois.edu/~jpascale/papers/monoidal.pdf][Poisson geometry, monoidal Fukaya categories, and commutative Floer cohomology rings]],\\
