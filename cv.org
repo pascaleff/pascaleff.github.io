@@ -52,6 +52,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
   5. (with Dmitry Tonkonog) The wall-crossing formula and Lagrangian mutations. /Adv. Math./ Volume 361, 12 February 2020, 106850. ([[https://arxiv.org/abs/1711.03209][arXiv:1711.03209]])
   6. Poisson geometry, monoidal Fukaya categories, and commutative Floer cohomology rings. ([[https://www.arxiv.org/abs/1803.07676][arXiv:1803.07676]], submitted)
   7. (with Nicolò Sibilla) Fukaya categories of higher-genus surfaces and pants decompositions. ([[https://arxiv.org/abs/2103.03366][arXiv:2103.03366]])
+  8. (with Nicolò Sibilla) Singularity categories of normal crossings surfaces, descent, and mirror symmetry. ([[https://arxiv.org/abs/2208.03896][arXiv:2208.03896]])
 
 * Talks
   1. Dec. 2010, Northern California Symplectic Geometry Seminar, Stanford University.\\
@@ -186,6 +187,8 @@ Website: [[http://pascaleff.com][pascaleff.com]]
 ** UIUC
    (*TRE* = List of teachers ranked as excellent by their students.)
 
+   - Fall 2022: Differentiable Manifolds I (MATH 518)
+   - Fall 2022: Fukaya categories of surfaces (MATH 595)
    - Fall 2021: Introduction to Abstract Algebra (MATH 417, 2 sections)^{*TRE*}
    - Spring 2021: Introduction to Abstract Algebra (MATH 417, 2 sections)
    - Spring 2020: Vector and Tensor Analysis (MATH 481)^{*TRE*}
