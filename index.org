@@ -15,8 +15,8 @@ You can see my [[file:cv.html][full CV here]].
 * Courses
 
 - Fall 2022:
-  - Math 518, Differentiable Manifolds I. MWF 9:00 am in 141 Altgeld Hall.
-  - Math 595, Fukaya categories of surfaces. MWF 11:00 am in 441 Altgeld Hall.
+  - [[https://pascaleff.github.io/518fa22/][Math 518, Differentiable Manifolds I]]. MWF 9:00 am in 141 Altgeld Hall.
+  - [[https://pascaleff.github.io/595fa22/][Math 595, Fukaya categories of surfaces]]. MWF 11:00 am in 441 Altgeld Hall.
 - October 2020: Minicourse "Introduction to Fukaya Categories" at the [[https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/][Hausdorff Institute]]
   - Lecture 1: [[https://faculty.math.illinois.edu/~jpascale/lecture1.pdf][slides]], [[https://www.youtube.com/watch?v=3El9B9RU5qk][video]].
   - Lecture 2: [[https://faculty.math.illinois.edu/~jpascale/lecture2.pdf][slides]], [[https://www.youtube.com/watch?v=A6-4brPnDIg][video]].
