@@ -181,8 +181,10 @@ Website: [[http://pascaleff.com][pascaleff.com]]
 
 
 * Teaching and Mentoring
-** Ph.D. student
+** Ph.D. students
    - Jianting Jesse Huang (UIUC, Ph.D. 2021. Subsequent position: PIMS Postdoc at the University of Alberta)
+   - Jie Yeo (UIUC, started Fall 2022).
+   - Omar Musleh (UIUC, started Fall 2022).
 
 ** UIUC
    (*TRE* = List of teachers ranked as excellent by their students.)
@@ -236,6 +238,8 @@ Website: [[http://pascaleff.com][pascaleff.com]]
 
 * Service activities
 ** UIUC
+   - Climate, Equity, and Inclusivity committee (Fall 2022).
+   - Teaching Awards committee (Fall 2022).
    - Organizer of Symplectic and Poisson Geometry Seminar (Fall 2016, AY 2018--19, AY 2019--20).
    - Preliminary examination committees for Daan Michiels (March 5,
      2015), Melinda Lanius (May 4, 2015), Sungwoo Nam (April 10,
