@@ -36,6 +36,9 @@ You can see my [[file:cv.html][full CV here]].
 - My [[http://www.arxiv.org/a/Pascaleff_J_1][arXiv]] and [[http://scholar.google.com/citations?user=O_rkweQAAAAJ][google scholar]] pages.
 
 ** Research articles
+   - Remarks on the equivalence between differential graded categories and A-infinity categories,\\
+     [[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]].
+
    - [[https://faculty.math.illinois.edu/~jpascale/papers/dsing-divisors.pdf][Singularity categories of normal crossings surfaces, descent, and mirror symmetry]],\\
      with Nicolò Sibilla, [[https://arxiv.org/abs/2208.03896][arXiv:2208.03896]].
 
