@@ -178,6 +178,8 @@ Website: [[http://pascaleff.com][pascaleff.com]]
       /Categories obtained from pants decompositions./
   61. Apr. 2022, Virtual Joint Mathematics Meetings, AMS Special Session on Quantum Categorical Structures in Mirror Symmetry.\\
       /Fukaya categories and pants decompositions of surfaces./
+  62. Nov. 2022, Workshop on matrix factorizations and related topics, University of Notre Dame.\\
+      /Singular support of coherent sheaves and mirror symmetry./
 
 
 * Teaching and Mentoring
