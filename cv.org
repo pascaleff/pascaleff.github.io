@@ -92,7 +92,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
   15. May 2014, Equivariant Gromov-Witten Theory and Applications workshop, Simons Center for Geometry and Physics.\\
       /Symplectic cohomology and equivariant Lagrangian branes./
   16. Jul. 2014, Mathematical Landings: A Norman conference in geometry and representation theory, Lingeard, France.\\
-      /Symplectic cohomology and equivariant Lagrangian branes./ [[http://faculty.math.illinois.edu/~jpascale/la-manche-libre.pdf][Media coverage.]]
+      /Symplectic cohomology and equivariant Lagrangian branes./ [[http://jpascale.web.illinois.edu/la-manche-libre.pdf][Media coverage.]]
   17. Sep. 2014, Symplectic and Poisson Geometry Seminar, University of Illinois at Urbana-Champaign.\\
       /Symplectic cohomology and its role in mirror symmetry./
   18. Oct. 2014, Princeton/IAS Symplectic Geometry Seminar, Institute for Advanced Study.\\
