@@ -243,7 +243,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
 * Service activities
 ** UIUC
    - Climate, Equity, and Inclusivity committee (Fall 2022).
-   - Teaching Awards committee (Fall 2022).
+   - Teaching Awards committee (2022--2023).
    - Organizer of Symplectic and Poisson Geometry Seminar (Fall 2016, AY 2018--19, AY 2019--20).
    - Preliminary examination committees for Daan Michiels (March 5,
      2015), Melinda Lanius (May 4, 2015), Sungwoo Nam (April 10,
@@ -251,7 +251,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
      10, 2021), Sambit Senapati (December 9, 2021), Nicole Yamzon (January 26, 2023; committee chair), and Ciaran O'Neill (March 11, 2023).
    - Final examination committees for Daan Michiels (March 27, 2018), Joel Villatoro (April 26, 2018), Matej Penciak (June 17, 2019; committee chair), Jesse Huang (May 5, 2021), and Yuxuan Zhang (May 27, 2022).
    - Reviewer for the Campus Research Board.
-   - Mathematics Department Executive Committee (2020-2021). /This elected committee is responsible for all budgetary decisions, faculty hiring, and the yearly faculty evaluation for raises./
+   - Mathematics Department Executive Committee (2020--2021). /This elected committee is responsible for all budgetary decisions, faculty hiring, and the yearly faculty evaluation for raises./
    - Graduate affairs committee (2019--2020).
    - Capricious grading committee (2019--2020).
    - Altgeld/Illini renovation committee (2019--2021).
