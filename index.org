@@ -49,13 +49,13 @@ You can see my [[file:cv.html][full CV here]].
      [[https://arxiv.org/abs/1803.07676][arXiv:1803.07676]], submitted.
 
    - [[https://jpascale.web.illinois.edu/papers/wall-crossing-mutations.pdf][The wall-crossing formula and Lagrangian mutations]],\\
-     with [[https://math.berkeley.edu/~tonkonog][Dmitry Tonkonog]], /Adv. Math./ Volume 361, 12 February 2020, 106850. ([[https://arxiv.org/abs/1711.03209][arXiv:1711.03209]])
+     with Dmitry Tonkonog, /Adv. Math./ Volume 361, 12 February 2020, 106850. ([[https://arxiv.org/abs/1711.03209][arXiv:1711.03209]])
 
    - [[https://jpascale.web.illinois.edu/papers/top-fuk-surfaces.pdf][Topological Fukaya category and mirror symmetry for punctured surfaces]],\\
-     with [[https://www.kent.ac.uk/smsas/personal/ns597/][Nicolò Sibilla]], /Compositio Math./ Volume 155, Issue 3 (2019), pp. 599--644. ([[https://arxiv.org/abs/1604.06448][arXiv:1604.06448]])
+     with Nicolò Sibilla, /Compositio Math./ Volume 155, Issue 3 (2019), pp. 599--644. ([[https://arxiv.org/abs/1604.06448][arXiv:1604.06448]])
 
    - [[https://jpascale.web.illinois.edu/papers/sl2equiv.pdf][Floer cohomology of g-equivariant Lagrangian branes]],\\
-     with [[http://www.mth.kcl.ac.uk/~lekili/][Yankı Lekili]], /Compositio Math./ Volume 152, Issue 05 (2016), pp. 1071--1110. ([[http://arxiv.org/abs/1310.8609][arXiv:1310.8609]])
+     with Yankı Lekili, /Compositio Math./ Volume 152, Issue 05 (2016), pp. 1071--1110. ([[http://arxiv.org/abs/1310.8609][arXiv:1310.8609]])
 
    - [[https://jpascale.web.illinois.edu/papers/log-cy.pdf][On the symplectic cohomology of log Calabi--Yau surfaces]],\\
      /Geom. Topol./ Volume 23, Issue 6 (2019), pp. 2701--2792. ([[http://arxiv.org/abs/1304.5298][arXiv:1304.5298]])
