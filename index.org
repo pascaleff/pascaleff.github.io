@@ -36,32 +36,32 @@ You can see my [[file:cv.html][full CV here]].
 - My [[http://www.arxiv.org/a/Pascaleff_J_1][arXiv]] and [[http://scholar.google.com/citations?user=O_rkweQAAAAJ][google scholar]] pages.
 
 ** Research articles
-   - [[https://faculty.math.illinois.edu/~jpascale/papers/dg-versus-a-infinity.pdf][Remarks on the equivalence between differential graded categories and A-infinity categories]],\\
+   - [[https://jpascale.web.illinois.edu/papers/dg-versus-a-infinity.pdf][Remarks on the equivalence between differential graded categories and A-infinity categories]],\\
      [[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]].
 
-   - [[https://faculty.math.illinois.edu/~jpascale/papers/dsing-divisors.pdf][Singularity categories of normal crossings surfaces, descent, and mirror symmetry]],\\
+   - [[https://jpascale.web.illinois.edu/papers/dsing-divisors.pdf][Singularity categories of normal crossings surfaces, descent, and mirror symmetry]],\\
      with Nicolò Sibilla, [[https://arxiv.org/abs/2208.03896][arXiv:2208.03896]].
 
-   - [[https://faculty.math.illinois.edu/~jpascale/papers/pants.pdf][Fukaya categories of higher-genus surfaces and pants decompositions]],\\
+   - [[https://jpascale.web.illinois.edu/papers/pants.pdf][Fukaya categories of higher-genus surfaces and pants decompositions]],\\
      with Nicolò Sibilla, [[https://arxiv.org/abs/2103.03366][arXiv:2103.03366]].
 
-   - [[https://faculty.math.illinois.edu/~jpascale/papers/monoidal.pdf][Poisson geometry, monoidal Fukaya categories, and commutative Floer cohomology rings]],\\
+   - [[https://jpascale.web.illinois.edu/papers/monoidal.pdf][Poisson geometry, monoidal Fukaya categories, and commutative Floer cohomology rings]],\\
      [[https://arxiv.org/abs/1803.07676][arXiv:1803.07676]], submitted.
 
-   - [[https://faculty.math.illinois.edu/~jpascale/papers/wall-crossing-mutations.pdf][The wall-crossing formula and Lagrangian mutations]],\\
+   - [[https://jpascale.web.illinois.edu/papers/wall-crossing-mutations.pdf][The wall-crossing formula and Lagrangian mutations]],\\
      with [[https://math.berkeley.edu/~tonkonog][Dmitry Tonkonog]], /Adv. Math./ Volume 361, 12 February 2020, 106850. ([[https://arxiv.org/abs/1711.03209][arXiv:1711.03209]])
 
-   - [[https://faculty.math.illinois.edu/~jpascale/papers/top-fuk-surfaces.pdf][Topological Fukaya category and mirror symmetry for punctured surfaces]],\\
+   - [[https://jpascale.web.illinois.edu/papers/top-fuk-surfaces.pdf][Topological Fukaya category and mirror symmetry for punctured surfaces]],\\
      with [[https://www.kent.ac.uk/smsas/personal/ns597/][Nicolò Sibilla]], /Compositio Math./ Volume 155, Issue 3 (2019), pp. 599--644. ([[https://arxiv.org/abs/1604.06448][arXiv:1604.06448]])
 
-   - [[https://faculty.math.illinois.edu/~jpascale/papers/sl2equiv.pdf][Floer cohomology of g-equivariant Lagrangian branes]],\\
+   - [[https://jpascale.web.illinois.edu/papers/sl2equiv.pdf][Floer cohomology of g-equivariant Lagrangian branes]],\\
      with [[http://www.mth.kcl.ac.uk/~lekili/][Yankı Lekili]], /Compositio Math./ Volume 152, Issue 05 (2016), pp. 1071--1110. ([[http://arxiv.org/abs/1310.8609][arXiv:1310.8609]])
 
-   - [[https://faculty.math.illinois.edu/~jpascale/papers/log-cy.pdf][On the symplectic cohomology of log Calabi--Yau surfaces]],\\
+   - [[https://jpascale.web.illinois.edu/papers/log-cy.pdf][On the symplectic cohomology of log Calabi--Yau surfaces]],\\
      /Geom. Topol./ Volume 23, Issue 6 (2019), pp. 2701--2792. ([[http://arxiv.org/abs/1304.5298][arXiv:1304.5298]])
 
-   - [[https://faculty.math.illinois.edu/~jpascale/papers/cp2-conic-line.pdf][Floer cohomology in the mirror of the projective plane and a binodal cubic curve]],\\
-     /Duke Math. J./ Volume 163, Number 13 (2014), pp. 2427--2516. ([[http://arxiv.org/abs/1109.3255][arXiv:1109.3255]], or [[https://faculty.math.illinois.edu/~jpascale/papers/pascaleff-thesis.pdf][thesis]] version)
+   - [[https://jpascale.web.illinois.edu/papers/cp2-conic-line.pdf][Floer cohomology in the mirror of the projective plane and a binodal cubic curve]],\\
+     /Duke Math. J./ Volume 163, Number 13 (2014), pp. 2427--2516. ([[http://arxiv.org/abs/1109.3255][arXiv:1109.3255]], or [[https://jpascale.web.illinois.edu/papers/pascaleff-thesis.pdf][thesis]] version)
 
 ** Expository notes
            
