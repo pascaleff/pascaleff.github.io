@@ -22,14 +22,14 @@ You can see my [[file:cv.html][full CV here]].
   - Lecture 2: [[https://jpascale.web.illinois.edu/lecture2.pdf][slides]], [[https://www.youtube.com/watch?v=A6-4brPnDIg][video]].
   - Lecture 3: [[https://jpascale.web.illinois.edu/lecture3.pdf][slides]], [[https://www.youtube.com/watch?v=zZuFv6QHAhY][video]].
 - Summer 2019: Young Scholars Program (University of Chicago)
-  - [[http://faculty.math.illinois.edu/~jpascale/courses/2019/ysp/knots-lectures.pdf][Lecture notes]].
-  - [[http://faculty.math.illinois.edu/~jpascale/courses/2019/ysp/boltzmann-weights.pdf][Boltzmann weights for the Jones polynomial as a Potts model]].
+  - [[http://jpascale.web.illinois.edu/courses/2019/ysp/knots-lectures.pdf][Lecture notes]].
+  - [[http://jpascale.web.illinois.edu/courses/2019/ysp/boltzmann-weights.pdf][Boltzmann weights for the Jones polynomial as a Potts model]].
 - [[file:courses.html][All previous courses and seminars]]
 
 ** Past graduate topics courses
 
-- Spring 2018: [[https://faculty.math.illinois.edu/~jpascale/courses/2018/595/][Homological Mirror Symmetry]]
-- Spring 2014: [[https://faculty.math.illinois.edu/~jpascale/courses/2014/m392c/][Lagrangian Floer Homology]]
+- Spring 2018: [[https://jpascale.web.illinois.edu/courses/2018/595/][Homological Mirror Symmetry]]
+- Spring 2014: [[https://jpascale.web.illinois.edu/courses/2014/m392c/][Lagrangian Floer Homology]]
 
 * Research
 
@@ -65,7 +65,7 @@ You can see my [[file:cv.html][full CV here]].
 
 ** Expository notes
            
-   - [[https://faculty.math.illinois.edu/~jpascale/courses/2017/bcov/perturbative.pdf][Perturbative quantization and master equation (after Costello)]], Spring 2017.
+   - [[https://jpascale.web.illinois.edu/courses/2017/bcov/perturbative.pdf][Perturbative quantization and master equation (after Costello)]], Spring 2017.
 
 * Mini-CV
 
