@@ -1,37 +1,37 @@
 #+TITLE: James Pascaleff's Courses and Seminars
 
 * University of Illinois
-  - Fall 2021: [[https://faculty.math.illinois.edu/~jpascale/courses/417fa21][Introduction to Abstract Algebra]] (Math 417)
-  - Spring 2021: [[https://faculty.math.illinois.edu/~jpascale/courses/417sp21][Introduction to Abstract Algebra]] (Math 417)
-  - Spring 2020: [[https://faculty.math.illinois.edu/~jpascale/courses/481sp20][Vector and Tensor Analysis]] (Math 481)
-  - Fall 2019: [[https://faculty.math.illinois.edu/~jpascale/courses/417fa19][Introduction to Abstract Algebra]] (Math 417)
-  - Fall 2019: [[https://faculty.math.illinois.edu/~jpascale/courses/510fa19][Riemann Surfaces and Algebraic Curves]] (Math 510)
+  - Fall 2021: [[https://jpascale.web.illinois.edu/courses/417fa21][Introduction to Abstract Algebra]] (Math 417)
+  - Spring 2021: [[https://jpascale.web.illinois.edu/courses/417sp21][Introduction to Abstract Algebra]] (Math 417)
+  - Spring 2020: [[https://jpascale.web.illinois.edu/courses/481sp20][Vector and Tensor Analysis]] (Math 481)
+  - Fall 2019: [[https://jpascale.web.illinois.edu/courses/417fa19][Introduction to Abstract Algebra]] (Math 417)
+  - Fall 2019: [[https://jpascale.web.illinois.edu/courses/510fa19][Riemann Surfaces and Algebraic Curves]] (Math 510)
   - Spring 2019: [[https://math.illinois.edu/research/igl/projects/spring/2019/homological-algebra-quiver-representations][Homological Algebra of Quiver Representations]] (IGL Project)
-  - Fall 2018: [[https://faculty.math.illinois.edu/~jpascale/courses/241fa18][Calculus III]] (Math 241)
+  - Fall 2018: [[https://jpascale.web.illinois.edu/courses/241fa18][Calculus III]] (Math 241)
   - Fall 2018: [[https://math.illinois.edu/research/igl/projects/fall/2018/geometric-group-actions-categories][Geometric Group Actions on Categories]] (IGL Project)
-  - Spring 2018: [[https://faculty.math.illinois.edu/~jpascale/courses/2018/595][Homological Mirror Symmetry]] (Math 595)                                                                                    
-  - Spring 2018: [[https://faculty.math.illinois.edu/~jpascale/courses/2018/417][Introduction to Abstract Algebra]] (Math 417)          
-  - Fall 2017: [[https://faculty.math.illinois.edu/~jpascale/courses/2017/535/index.html][General Topology]] (Math 535)
-  - Fall 2016: [[https://faculty.math.illinois.edu/~jpascale/courses/2016/241/index.html][Calculus III]] (Math 241)
-  - Spring 2016: [[https://faculty.math.illinois.edu/~jpascale/courses/2016/510/index.html][Riemann Surfaces and Algebraic Curves]] (Math 510)
-  - Spring 2016: [[https://faculty.math.illinois.edu/~jpascale/courses/2016/285/index.html][Introduction to Differential Equations]] (Math 285)
-  - Spring 2015: [[https://faculty.math.illinois.edu/~jpascale/courses/2015/519/index.html][Differentiable Manifolds II]] (Math 519)
-  - Fall 2014: [[https://faculty.math.illinois.edu/~jpascale/courses/2014/285/index.html][Introduction to Differential Equations]] (Math 285)
+  - Spring 2018: [[https://jpascale.web.illinois.edu/courses/2018/595][Homological Mirror Symmetry]] (Math 595)                                                                                    
+  - Spring 2018: [[https://jpascale.web.illinois.edu/courses/2018/417][Introduction to Abstract Algebra]] (Math 417)          
+  - Fall 2017: [[https://jpascale.web.illinois.edu/courses/2017/535/index.html][General Topology]] (Math 535)
+  - Fall 2016: [[https://jpascale.web.illinois.edu/courses/2016/241/index.html][Calculus III]] (Math 241)
+  - Spring 2016: [[https://jpascale.web.illinois.edu/courses/2016/510/index.html][Riemann Surfaces and Algebraic Curves]] (Math 510)
+  - Spring 2016: [[https://jpascale.web.illinois.edu/courses/2016/285/index.html][Introduction to Differential Equations]] (Math 285)
+  - Spring 2015: [[https://jpascale.web.illinois.edu/courses/2015/519/index.html][Differentiable Manifolds II]] (Math 519)
+  - Fall 2014: [[https://jpascale.web.illinois.edu/courses/2014/285/index.html][Introduction to Differential Equations]] (Math 285)
 
 * Institute for Advanced Study
-  - Spring 2017: [[https://faculty.math.illinois.edu/~jpascale/courses/2017/bcov/index.html][Quantization of BCOV theory and the higher-genus B-model reading group]]
+  - Spring 2017: [[https://jpascale.web.illinois.edu/courses/2017/bcov/index.html][Quantization of BCOV theory and the higher-genus B-model reading group]]
     
 * University of Texas at Austin  
-  - Spring 2014: [[https://faculty.math.illinois.edu/~jpascale/courses/2014/m392c/index.html][Lagrangian Floer Homology]] (M 392C)
-  - Fall 2013: [[https://faculty.math.illinois.edu/~jpascale/courses/2013/m408c/index.html][Differential and Integral Calculus]] (M 408C)
-  - Spring 2013: [[https://faculty.math.illinois.edu/~jpascale/courses/2013/m408m/index.html][Multivariable Calculus]] (M 408M)
-  - Fall 2012: [[https://faculty.math.illinois.edu/~jpascale/courses/2012/m427k/index.html][Advanced Calculus for Applications I]] (M 427K)
-  - 2012--2013: [[https://faculty.math.illinois.edu/~jpascale/courses/grad-gt/grad-gt.html][Graduate Geometry and Topology Current Literature Seminar]]
-  - Spring 2012: [[https://faculty.math.illinois.edu/~jpascale/courses/2012/m362k/index.html][Probability I]] (M 362K)
-  - Fall 2011: [[https://faculty.math.illinois.edu/~jpascale/courses/2011/m408d/index.html][Sequences, Series, and Multivariable Calculus]] (M 408D)
+  - Spring 2014: [[https://jpascale.web.illinois.edu/courses/2014/m392c/index.html][Lagrangian Floer Homology]] (M 392C)
+  - Fall 2013: [[https://jpascale.web.illinois.edu/courses/2013/m408c/index.html][Differential and Integral Calculus]] (M 408C)
+  - Spring 2013: [[https://jpascale.web.illinois.edu/courses/2013/m408m/index.html][Multivariable Calculus]] (M 408M)
+  - Fall 2012: [[https://jpascale.web.illinois.edu/courses/2012/m427k/index.html][Advanced Calculus for Applications I]] (M 427K)
+  - 2012--2013: [[https://jpascale.web.illinois.edu/courses/grad-gt/grad-gt.html][Graduate Geometry and Topology Current Literature Seminar]]
+  - Spring 2012: [[https://jpascale.web.illinois.edu/courses/2012/m362k/index.html][Probability I]] (M 362K)
+  - Fall 2011: [[https://jpascale.web.illinois.edu/courses/2011/m408d/index.html][Sequences, Series, and Multivariable Calculus]] (M 408D)
 
 * MIT
   - June 2011: [[http://math.mit.edu/conferences/geometryworkshop/index2011.html][MIT-RTG Geometry Workshop with David Nadler]] (co-organizer)
   - August 2010: Graduate Symplectic Field Theory workshop with Tobias Ekholm: [[http://math.mit.edu/conferences/geometryworkshop/announcement.html][Announcement]], [[http://math.mit.edu/conferences/geometryworkshop/oldplan.html][Plan of Talks]] (co-organizer)
-  - Spring 2008--Spring 2009: [[https://faculty.math.illinois.edu/~jpascale/courses/hunt/hunt.html][Symplectic Hunt]]
+  - Spring 2008--Spring 2009: [[https://jpascale.web.illinois.edu/courses/hunt/hunt.html][Symplectic Hunt]]
 
