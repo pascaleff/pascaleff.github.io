@@ -182,7 +182,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
       /Fukaya categories and pants decompositions of surfaces./
   61. Nov. 2022, Workshop on matrix factorizations and related topics, University of Notre Dame.\\
       /Singular support of coherent sheaves and mirror symmetry./
-  62. Apr. 2023, AMS Spring Central Sectional Meeting, Special Session on Quantitative Aspets of Symplectic Topology, University of Cincinnati.\\
+  62. Apr. 2023, AMS Spring Central Sectional Meeting, Special Session on Quantitative Aspects of Symplectic Topology, University of Cincinnati.\\
       /Mirrors of normal crossings surfaces at infinity./
 
 
