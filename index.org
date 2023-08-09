@@ -4,7 +4,7 @@ Associate Professor\\
 [[http://math.illinois.edu/][Department of Mathematics]]\\
 [[http://illinois.edu/][University of Illinois]]
 
-| ⌘ | Room 306 at [[https://www.google.com/maps/place/805+W+Pennsylvania+Ave,+Urbana,+IL+61801/][805 W. Pennsylvania Avenue]] |
+| ⌘ | Room 306 at [[https://www.google.com/maps/place/805+W+Pennsylvania+Ave,+Urbana,+IL+61801/][805 W. Pennsylvania Avenue]] ([[file:office.html][Please read this]] for more information about this location) |
 | ☏ | +1 217 244 7277                        |
 | ✉ | [[mailto:jpascale@illinois.edu][jpascale@illinois.edu]]                  |
 
