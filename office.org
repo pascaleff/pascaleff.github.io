@@ -1,0 +1,18 @@
+#+TITLE: My Office
+
+- My office is *Room 306* at [[https://www.google.com/maps/place/805+W+Pennsylvania+Ave,+Urbana,+IL+61801/][805 West Pennsylvania Avenue]]. 
+
+- The building is about 1.3 miles from Altgeld Hall. It is near the
+  Pennsylvania Avenue Residence Halls (PAR), and the Illini
+  Grove. Some members of the Department of Mathematics have relocated
+  to this building during the [[https://las.illinois.edu/giving/altgeldillini][Altgeld-Illini renovation]] project.
+
+- You are welcome to come visit me in my office. You should first send
+  me an [[mailto:jpascale@illinois.edu][email]] to set up a meeting, for several reasons: the building
+  is usually locked, and because my work takes me to different locations
+  on campus, I may not be in the office when you arrive unless I know
+  to expect you.
+
+- When you arrive for our meeting, you should contact me to come
+  downstairs to let you in. You can call *(not text)* my work
+  number (217) 244-7277.
