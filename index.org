@@ -25,10 +25,10 @@ You can see my [[file:cv.html][full CV here]].
 - [[file:courses.html][All previous courses and seminars]]
 
 ** Past graduate topics courses
-
+- Fall 2022: [[https://pascaleff.github.io/595fa22/][Fukaya Categories of Surfaces]]
 - Spring 2018: [[https://jpascale.web.illinois.edu/courses/2018/595/][Homological Mirror Symmetry]]
 - Spring 2014: [[https://jpascale.web.illinois.edu/courses/2014/m392c/][Lagrangian Floer Homology]]
-- Fall 2022: [[https://pascaleff.github.io/595fa22/][Fukaya categories of surfaces]]
+
 
 * Research
 
