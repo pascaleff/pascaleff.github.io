@@ -195,6 +195,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
 ** UIUC
    (*TRE* = List of teachers ranked as excellent by their students.)
 
+   - Fall 2023: Introduction to Abstract Algebra (MATH 417)
    - Fall 2022: Differentiable Manifolds I (MATH 518)
    - Fall 2022: Fukaya categories of surfaces (MATH 595)
    - Fall 2021: Introduction to Abstract Algebra (MATH 417, 2 sections)^{*TRE*}
@@ -243,7 +244,11 @@ Website: [[http://pascaleff.com][pascaleff.com]]
    - Summer 2003, 2004: Counselor, U. of Chicago Young Scholars Program.
 
 * Service activities
+** External
+   - External referee for the Ph.D. thesis of Hayato Morimura, SISSA (September 8, 2023).
+
 ** UIUC
+   - Capricious Grading Committee (2023--2024).
    - Climate, Equity, and Inclusivity committee (Fall 2022).
    - Teaching Awards committee (2022--2023).
    - Organizer of Symplectic and Poisson Geometry Seminar (Fall 2016, AY 2018--19, AY 2019--20).
@@ -251,7 +256,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
      2015), Melinda Lanius (May 4, 2015), Sungwoo Nam (April 10,
      2019), Nachiketa Adhikari (August 13, 2020), Shuyu Xiao (November
      10, 2021), Sambit Senapati (December 9, 2021), Nicole Yamzon (January 26, 2023; committee chair), and Ciaran O'Neill (March 11, 2023).
-   - Final examination committees for Daan Michiels (March 27, 2018), Joel Villatoro (April 26, 2018), Matej Penciak (June 17, 2019; committee chair), Jesse Huang (May 5, 2021), and Yuxuan Zhang (May 27, 2022).
+   - Final examination committees for Daan Michiels (March 27, 2018), Joel Villatoro (April 26, 2018), Matej Penciak (June 17, 2019; committee chair), Jesse Huang (May 5, 2021), Yuxuan Zhang (May 27, 2022), and Sungwoo Nam (June 2, 2023).
    - Reviewer for the Campus Research Board.
    - Mathematics Department Executive Committee (2020--2021). /This elected committee is responsible for all budgetary decisions, faculty hiring, and the yearly faculty evaluation for raises./
    - Graduate affairs committee (2019--2020).
