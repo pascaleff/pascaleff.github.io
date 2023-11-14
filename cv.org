@@ -184,7 +184,8 @@ Website: [[http://pascaleff.com][pascaleff.com]]
       /Singular support of coherent sheaves and mirror symmetry./
   62. Apr. 2023, AMS Spring Central Sectional Meeting, Special Session on Quantitative Aspects of Symplectic Topology, University of Cincinnati.\\
       /Mirrors of normal crossings surfaces at infinity./
-
+  63. Nov. 2023, Seminar on 3D Mirror Symmetry and Elliptic Cohomology, SISSA.\\
+      /Higher Fukaya Categories and 3D HMS./
 
 * Teaching and Mentoring
 ** Ph.D. students
