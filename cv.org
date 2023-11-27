@@ -29,8 +29,11 @@ Website: [[http://pascaleff.com][pascaleff.com]]
   - A.B. in Mathematics (2006) University of Chicago :: with honors.
 
 * Grants awarded
+** External
   - 2014--2017 NSF award, /Symplectic Cohomology, log Calabi--Yau Varieties, and equivariant Lagrangian Submanifolds./ 
   - 2019--2024 Simons Foundation, Collaboration Grant, /Fukaya categories: wall-crossing, quantization, and higher categorical structures./
+** Internal (UIUC)
+  - 2024--2025 Campus Research Board, /Loop Spaces, Homological Algebra, and Symplectic Geometry/.
 
 * Honors & fellowships
   - RTG Postdoctoral Fellowship (part of NSF grants DMS-0636557 and DMS-1148490) (2011--2014)
