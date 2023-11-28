@@ -1,6 +1,6 @@
 #+TITLE: James Pascaleff
 
-#+ATTR_HTML: :width 400 :align right
+#+ATTR_HTML: :height 300 :align right
 [[http://jpascale.web.illinois.edu/pascaleff_james.jpg]]
 
 Associate Professor\\
