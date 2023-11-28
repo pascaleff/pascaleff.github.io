@@ -1,5 +1,8 @@
 #+TITLE: James Pascaleff
 
+#+ATTR_HTML: :width 400 :align right
+[[http://jpascale.web.illinois.edu/pascaleff_james.jpg]]
+
 Associate Professor\\
 [[http://math.illinois.edu/][Department of Mathematics]]\\
 [[http://illinois.edu/][University of Illinois]]
