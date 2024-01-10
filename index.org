@@ -17,7 +17,9 @@ You can see my [[file:cv.html][full CV here]].
 
 * Courses
 
-- Fall 2023: [[https://pascaleff.github.io/417fa23][Introduction to Abstract Algebra (Math 417)]]. MWF 11:00 am in 169 Davenport Hall.
+- Spring 2024:
+  - Differentiable Manifolds II (Math 519).
+  - Fundamental Mathematics (Math 347).
 - October 2020: Minicourse "Introduction to Fukaya Categories" at the [[https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/][Hausdorff Institute]]
   - Lecture 1: [[https://jpascale.web.illinois.edu/lecture1.pdf][slides]], [[https://www.youtube.com/watch?v=3El9B9RU5qk][video]].
   - Lecture 2: [[https://jpascale.web.illinois.edu/lecture2.pdf][slides]], [[https://www.youtube.com/watch?v=A6-4brPnDIg][video]].

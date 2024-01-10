@@ -1,6 +1,7 @@
 #+TITLE: James Pascaleff's Courses and Seminars
 
 * University of Illinois
+  - Fall 2023: [[https://pascaleff.github.io/417fa23][Introduction to Abstract Algebra]] (Math 417)
   - Fall 2022: [[https://pascaleff.github.io/518fa22/][Differentiable Manifolds I]] (Math 518)
   - Fall 2022: [[https://pascaleff.github.io/595fa22/][Fukaya categories of surfaces]] (Math 595)
   - Fall 2021: [[https://jpascale.web.illinois.edu/courses/417fa21][Introduction to Abstract Algebra]] (Math 417)
