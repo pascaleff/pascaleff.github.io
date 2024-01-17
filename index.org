@@ -18,8 +18,9 @@ You can see my [[file:cv.html][full CV here]].
 * Courses
 
 - Spring 2024:
-  - [[https://canvas.illinois.edu/courses/44745][Differentiable Manifolds II (Math 519)]].
-  - [[https://canvas.illinois.edu/courses/44740][Fundamental Mathematics (Math 347)]].
+  - [[https://canvas.illinois.edu/courses/44745][Differentiable Manifolds II (Math 519)]]. MWF 12:00--12:50pm in 243 Altgeld Hall.
+  - [[https://canvas.illinois.edu/courses/44740][Fundamental Mathematics (Math 347)]]. MWF 1:00--1:50pm in 243 Altgeld Hall.
+  - /Note on rooms: These classes will meet in 243 Altgeld Hall from January 19 until further notice. If, at some point in the semester, 243 AH becomes unavailable due to the renovation, we will move back to the classrooms listed in the official Class Schedule./
 - October 2020: Minicourse "Introduction to Fukaya Categories" at the [[https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/][Hausdorff Institute]]
   - Lecture 1: [[https://jpascale.web.illinois.edu/lecture1.pdf][slides]], [[https://www.youtube.com/watch?v=3El9B9RU5qk][video]].
   - Lecture 2: [[https://jpascale.web.illinois.edu/lecture2.pdf][slides]], [[https://www.youtube.com/watch?v=A6-4brPnDIg][video]].
