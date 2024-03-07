@@ -249,7 +249,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
 
 * Service activities
 ** External
-   - External referee for the Ph.D. thesis of Hayato Morimura, SISSA (September 8, 2023).
+   - External referee for the Ph.D. thesis of Hayato Morimura, SISSA (September 8, 2023), and Soham Chanda, Rutgers University (March 5, 2024).
 
 ** UIUC
    - Capricious Grading Committee (2023--2024).
@@ -286,4 +286,5 @@ Website: [[http://pascaleff.com][pascaleff.com]]
     
     
 
+  
   
