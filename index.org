@@ -43,7 +43,7 @@ You can see my [[file:cv.html][full CV here]].
 
 ** Research articles
    - [[https://jpascale.web.illinois.edu/papers/dg-versus-a-infinity.pdf][Remarks on the equivalence between differential graded categories and A-infinity categories]],\\
-     Accepted to /Homology, Homotopy and Applications/. ([[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]])
+     /Homology, Homotopy and Applications/, vol. 26(1), 2024, pp. 275--285. ([[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]])
 
    - [[https://jpascale.web.illinois.edu/papers/dsing-divisors.pdf][Singularity categories of normal crossings surfaces, descent, and mirror symmetry]],\\
      with Nicolò Sibilla, [[https://arxiv.org/abs/2208.03896][arXiv:2208.03896]].
