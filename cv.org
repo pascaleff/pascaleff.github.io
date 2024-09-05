@@ -253,6 +253,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
    - External referee for the Ph.D. thesis of Hayato Morimura, SISSA (September 8, 2023), and Soham Chanda, Rutgers University (March 5, 2024).
 
 ** UIUC
+   - Undergraduate Affairs Committee (2024--2026, Chair).
    - Capricious Grading Committee (2023--2024).
    - Climate, Equity, and Inclusivity committee (Fall 2022).
    - Teaching Awards committee (2022--2023).
