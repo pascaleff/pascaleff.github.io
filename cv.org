@@ -53,7 +53,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
   3. (with Yankı Lekili) Floer cohomology of g-equivariant Lagrangian branes. /Compositio Math./ Volume 152, Issue 05 (2016), pp. 1071--1110. ([[http://arxiv.org/abs/1310.8609][arXiv:1310.8609]])
   4. (with Nicolò Sibilla) Topological Fukaya category and mirror symmetry for punctured surfaces. /Compositio Math./ Volume 155, Issue 3 (2019), pp. 599--644. ([[https://arxiv.org/abs/1604.06448][arXiv:1604.06448]])  
   5. (with Dmitry Tonkonog) The wall-crossing formula and Lagrangian mutations. /Adv. Math./ Volume 361, 12 February 2020, 106850. ([[https://arxiv.org/abs/1711.03209][arXiv:1711.03209]])
-  6. Poisson geometry, monoidal Fukaya categories, and commutative Floer cohomology rings. Accepted to /L’Enseignement Mathématique/. ([[https://www.arxiv.org/abs/1803.07676][arXiv:1803.07676]])
+  6. Poisson geometry, monoidal Fukaya categories, and commutative Floer cohomology rings. /Enseign. Math./ 70 (2024), no. 3/4, pp. 313–381. ([[https://www.arxiv.org/abs/1803.07676][arXiv:1803.07676]])
   7. (with Nicolò Sibilla) Fukaya categories of higher-genus surfaces and pants decompositions. ([[https://arxiv.org/abs/2103.03366][arXiv:2103.03366]])
   8. (with Nicolò Sibilla) Singularity categories of normal crossings surfaces, descent, and mirror symmetry. ([[https://arxiv.org/abs/2208.03896][arXiv:2208.03896]])
   9. Remarks on the equivalence between differential graded categories and A-infinity categories. /Homology, Homotopy and Applications/, vol. 26(1), 2024, pp. 275--285. ([[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]])

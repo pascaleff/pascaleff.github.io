@@ -48,7 +48,7 @@ You can see my [[file:cv.html][full CV here]].
      with Nicolò Sibilla, [[https://arxiv.org/abs/2103.03366][arXiv:2103.03366]].
 
    - [[https://jpascale.web.illinois.edu/papers/monoidal.pdf][Poisson geometry, monoidal Fukaya categories, and commutative Floer cohomology rings]],\\
-     Accepted to /L’Enseignement Mathématique/. ([[https://arxiv.org/abs/1803.07676][arXiv:1803.07676]])
+     /Enseign. Math./ 70 (2024), no. 3/4, pp. 313–381. ([[https://arxiv.org/abs/1803.07676][arXiv:1803.07676]])
 
    - [[https://jpascale.web.illinois.edu/papers/wall-crossing-mutations.pdf][The wall-crossing formula and Lagrangian mutations]],\\
      with Dmitry Tonkonog, /Adv. Math./ Volume 361, 12 February 2020, 106850. ([[https://arxiv.org/abs/1711.03209][arXiv:1711.03209]])
