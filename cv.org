@@ -205,6 +205,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
 
 ** UIUC
    (*TRE* = List of teachers ranked as excellent by their students.)
+   - Fall 2024: Fundamental Mathematics (Math 347, merit section)
    - Spring 2024: Differentiable Manifolds II (Math 519)^{*TRE*}
    - Spring 2024: Fundamental Mathematics (Math 347)
    - Fall 2023: Introduction to Abstract Algebra (MATH 417)
