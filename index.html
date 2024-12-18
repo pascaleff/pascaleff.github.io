@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-11-05 -->
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 2024-12-18 -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>James Pascaleff</title>
-<meta name="generator" content="Org mode">
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
   .title  { text-align: center;
              margin-bottom: .2em; }
   .subtitle { text-align: center;
@@ -28,8 +28,9 @@
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
   pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
     padding: 8pt;
     font-family: monospace;
     overflow: auto;
@@ -37,22 +38,22 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
-    padding-top: 1.2em;
+    overflow: auto;
   }
   pre.src:before {
     display: none;
     position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
+    top: -8px;
+    right: 12px;
     padding: 3px;
-    border: 1px solid black;
+    color: #555;
+    background-color: #f2f2f299;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
   pre.src-C:before { content: 'C'; }
   /* pre.src-C++ doesn't work in CSS */
   pre.src-clojure:before { content: 'Clojure'; }
@@ -187,66 +188,19 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
-  /*]]>*/-->
+  .org-svg { }
 </style>
 <link rel="stylesheet" title="Standard" href="css/worg.css" type="text/css">
 <link rel="alternate stylesheet" title="Zenburn" href="css/worg-zenburn.css" type="text/css" />
 <link rel="alternate stylesheet" title="Classic" href="css/worg-classic.css" type="text/css" />
 <link rel="shortcut icon" href="https://math.illinois.edu/themes/custom/las_unit_theme/favicon-32x32.png" type="image/png" />
-<script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
-<!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
-</script>
 </head>
 <body>
-<main id="content">
+<main id="content" class="content">
 <header>
 <h1 class="title">James Pascaleff</h1>
 </header>
-<figure>
+<figure id="org9f941fe">
 <img src="http://jpascale.web.illinois.edu/pascaleff_james.jpg" alt="pascaleff_james.jpg" height="300" align="right">
 
 </figure>
@@ -291,9 +245,9 @@ I am a mathematician working on symplectic topology and mirror symmetry.
 You can see my <a href="cv.html">full CV here</a>.
 </p>
 
-<section id="outline-container-org4ea73de" class="outline-2">
-<h2 id="org4ea73de">Courses</h2>
-<div class="outline-text-2" id="text-org4ea73de">
+<section id="outline-container-org938c42f" class="outline-2">
+<h2 id="org938c42f">Courses</h2>
+<div class="outline-text-2" id="text-org938c42f">
 <ul class="org-ul">
 <li>Fall 2024: <a href="https://canvas.illinois.edu/courses/49655">Math 347 Fundamental Mathematics</a>, Section C2M, MWF 10:00&#x2013;10:50 am.</li>
 <li>October 2020: Minicourse &ldquo;Introduction to Fukaya Categories&rdquo; at the <a href="https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/">Hausdorff Institute</a>
@@ -311,9 +265,9 @@ You can see my <a href="cv.html">full CV here</a>.
 </ul>
 </div>
 
-<div id="outline-container-org294a25f" class="outline-3">
-<h3 id="org294a25f">Past graduate topics courses</h3>
-<div class="outline-text-3" id="text-org294a25f">
+<div id="outline-container-org091eef3" class="outline-3">
+<h3 id="org091eef3">Past graduate topics courses</h3>
+<div class="outline-text-3" id="text-org091eef3">
 <ul class="org-ul">
 <li>Fall 2022: <a href="https://pascaleff.github.io/595fa22/">Fukaya Categories of Surfaces</a></li>
 <li>Spring 2018: <a href="https://jpascale.web.illinois.edu/courses/2018/595/">Homological Mirror Symmetry</a></li>
@@ -324,17 +278,17 @@ You can see my <a href="cv.html">full CV here</a>.
 </section>
 
 
-<section id="outline-container-orgbfd8a8c" class="outline-2">
-<h2 id="orgbfd8a8c">Research</h2>
-<div class="outline-text-2" id="text-orgbfd8a8c">
+<section id="outline-container-orgb8434cc" class="outline-2">
+<h2 id="orgb8434cc">Research</h2>
+<div class="outline-text-2" id="text-orgb8434cc">
 <ul class="org-ul">
 <li>My <a href="http://www.arxiv.org/a/Pascaleff_J_1">arXiv</a> and <a href="http://scholar.google.com/citations?user=O_rkweQAAAAJ">google scholar</a> pages.</li>
 </ul>
 </div>
 
-<div id="outline-container-org366d495" class="outline-3">
-<h3 id="org366d495">Research articles</h3>
-<div class="outline-text-3" id="text-org366d495">
+<div id="outline-container-orgf8afde6" class="outline-3">
+<h3 id="orgf8afde6">Research articles</h3>
+<div class="outline-text-3" id="text-orgf8afde6">
 <ul class="org-ul">
 <li><a href="https://jpascale.web.illinois.edu/papers/dg-versus-a-infinity.pdf">Remarks on the equivalence between differential graded categories and A-infinity categories</a>,<br>
 <i>Homology, Homotopy and Applications</i>, vol. 26(1), 2024, pp. 275&#x2013;285. (<a href="https://arxiv.org/abs/2211.05861">arXiv:2211.05861</a>)</li>
@@ -366,9 +320,9 @@ with Yankı Lekili, <i>Compositio Math.</i> Volume 152, Issue 05 (2016), pp. 107
 </div>
 </div>
 
-<div id="outline-container-orgf8dfbc3" class="outline-3">
-<h3 id="orgf8dfbc3">Expository notes</h3>
-<div class="outline-text-3" id="text-orgf8dfbc3">
+<div id="outline-container-org2c363a6" class="outline-3">
+<h3 id="org2c363a6">Expository notes</h3>
+<div class="outline-text-3" id="text-org2c363a6">
 <ul class="org-ul">
 <li><a href="https://jpascale.web.illinois.edu/courses/2017/bcov/perturbative.pdf">Perturbative quantization and master equation (after Costello)</a>, Spring 2017.</li>
 </ul>
@@ -376,9 +330,9 @@ with Yankı Lekili, <i>Compositio Math.</i> Volume 152, Issue 05 (2016), pp. 107
 </div>
 </section>
 
-<section id="outline-container-orgb6577a7" class="outline-2">
-<h2 id="orgb6577a7">Mini-CV</h2>
-<div class="outline-text-2" id="text-orgb6577a7">
+<section id="outline-container-org1d63410" class="outline-2">
+<h2 id="org1d63410">Mini-CV</h2>
+<div class="outline-text-2" id="text-org1d63410">
 <ul class="org-ul">
 <li>2020&#x2013;Present: Associate Professor, University of Illinois at Urbana-Champaign.</li>
 <li>2014&#x2013;2020: Assistant Professor, University of Illinois at Urbana-Champaign.</li>
