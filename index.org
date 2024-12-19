@@ -17,6 +17,9 @@ You can see my [[file:cv.html][full CV here]].
 
 * Courses
 
+- Spring 2025:
+  - Math 525 Algebraic Topology I, MWF 10:00--10:50am.
+  - Math 417 Introduction to Abstract Algebra, Section D13/D14, MWF 11:00--11:50am.
 - Fall 2024: [[https://canvas.illinois.edu/courses/49655][Math 347 Fundamental Mathematics]], Section C2M, MWF 10:00--10:50 am.
 - October 2020: Minicourse "Introduction to Fukaya Categories" at the [[https://www.him.uni-bonn.de/programs/past-programs/past-junior-trimester-programs/new-trends-in-representation-theory/new-trends-in-representation-theory-school/][Hausdorff Institute]]
   - Lecture 1: [[https://jpascale.web.illinois.edu/lecture1.pdf][slides]], [[https://www.youtube.com/watch?v=3El9B9RU5qk][video]].
