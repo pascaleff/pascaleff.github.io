@@ -48,6 +48,9 @@ You can see my [[file:cv.html][full CV here]].
 - My [[http://www.arxiv.org/a/Pascaleff_J_1][arXiv]] and [[http://scholar.google.com/citations?user=O_rkweQAAAAJ][google scholar]] pages.
 
 ** Research articles
+   - Higher local systems, n-affineness and Koszul duality,\\
+     With Emanuele Pavia and Nicolò Sibilla, [[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]].
+
    - [[https://jpascale.web.illinois.edu/papers/dg-versus-a-infinity.pdf][Remarks on the equivalence between differential graded categories and A-infinity categories]],\\
      /Homology, Homotopy and Applications/, vol. 26(1), 2024, pp. 275--285. ([[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]])
 
