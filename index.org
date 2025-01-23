@@ -24,7 +24,7 @@ You can see my [[file:cv.html][full CV here]].
 ** Current teaching
 - Spring 2025: Math 525 Algebraic Topology I, MWF 10:00--10:50am.
 - Spring 2025: Math 417 Introduction to Abstract Algebra, Section D13/D14, MWF 11:00--11:50am.
-- Fall 2024: [[https://canvas.illinois.edu/courses/49655][Math 347 Fundamental Mathematics]], Section C2M, MWF 10:00--10:50 am.
+- [[file:courses.html][All previous courses and seminars]]
 
 ** Selected past teaching
 *** Graduate topics courses
@@ -40,7 +40,6 @@ You can see my [[file:cv.html][full CV here]].
 - Summer 2019: Young Scholars Program (University of Chicago)
   - [[http://jpascale.web.illinois.edu/courses/2019/ysp/knots-lectures.pdf][Lecture notes]].
   - [[http://jpascale.web.illinois.edu/courses/2019/ysp/boltzmann-weights.pdf][Boltzmann weights for the Jones polynomial as a Potts model]].
-- [[file:courses.html][All previous courses and seminars]]
 
 
 * Research
@@ -49,7 +48,7 @@ You can see my [[file:cv.html][full CV here]].
 
 ** Research articles
    - [[https://jpascale.web.illinois.edu/papers/Local_systems.pdf][Higher local systems, n-affineness and Koszul duality]],\\
-     With Emanuele Pavia and Nicolò Sibilla, [[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]].
+     with Emanuele Pavia and Nicolò Sibilla, [[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]].
 
    - [[https://jpascale.web.illinois.edu/papers/dg-versus-a-infinity.pdf][Remarks on the equivalence between differential graded categories and A-infinity categories]],\\
      /Homology, Homotopy and Applications/, vol. 26(1), 2024, pp. 275--285. ([[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]])

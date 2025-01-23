@@ -57,7 +57,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
   7. (with Nicolò Sibilla) Fukaya categories of higher-genus surfaces and pants decompositions. ([[https://arxiv.org/abs/2103.03366][arXiv:2103.03366]])
   8. (with Nicolò Sibilla) Singularity categories of normal crossings surfaces, descent, and mirror symmetry. ([[https://arxiv.org/abs/2208.03896][arXiv:2208.03896]])
   9. Remarks on the equivalence between differential graded categories and A-infinity categories. /Homology, Homotopy and Applications/, vol. 26(1), 2024, pp. 275--285. ([[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]])
-
+  10. (with Emanuele Pavia and Nicolò Sibilla) Higher local systems, n-affineness and Koszul duality. ([[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]])
 
 * Talks
   1. Dec. 2010, Northern California Symplectic Geometry Seminar, Stanford University.\\
