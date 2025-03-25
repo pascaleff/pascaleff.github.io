@@ -47,7 +47,10 @@ You can see my [[file:cv.html][full CV here]].
 - My [[http://www.arxiv.org/a/Pascaleff_J_1][arXiv]] and [[http://scholar.google.com/citations?user=O_rkweQAAAAJ][google scholar]] pages.
 
 ** Research articles
-   - [[https://jpascale.web.illinois.edu/papers/Local_systems.pdf][Higher local systems, n-affineness and Koszul duality]],\\
+   - [[https://jpascale.web.illinois.edu/papers/Koszul_duality.pdf][Higher Koszul duality and n-affineness]],\\
+     with Emanuele Pavia and Nicolò Sibilla.
+
+   - [[https://jpascale.web.illinois.edu/papers/Local_systems.pdf][Higher local systems and the categorified monodromy equivalence]],\\
      with Emanuele Pavia and Nicolò Sibilla, [[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]].
 
    - [[https://jpascale.web.illinois.edu/papers/dg-versus-a-infinity.pdf][Remarks on the equivalence between differential graded categories and A-infinity categories]],\\
