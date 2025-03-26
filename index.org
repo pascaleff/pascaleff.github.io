@@ -48,10 +48,10 @@ You can see my [[file:cv.html][full CV here]].
 
 ** Research articles
    - [[https://jpascale.web.illinois.edu/papers/Koszul_duality.pdf][Higher Koszul duality and n-affineness]],\\
-     with Emanuele Pavia and Nicolò Sibilla.
+     with Emanuele Pavia and Nicolò Sibilla. (arXiv:2501.10241v1 was split into two parts: this is part two.)
 
    - [[https://jpascale.web.illinois.edu/papers/Local_systems.pdf][Higher local systems and the categorified monodromy equivalence]],\\
-     with Emanuele Pavia and Nicolò Sibilla, [[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]].
+     with Emanuele Pavia and Nicolò Sibilla, [[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]]. (arXiv:2501.10241v1 was split into two parts: this is part one.)
 
    - [[https://jpascale.web.illinois.edu/papers/dg-versus-a-infinity.pdf][Remarks on the equivalence between differential graded categories and A-infinity categories]],\\
      /Homology, Homotopy and Applications/, vol. 26(1), 2024, pp. 275--285. ([[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]])
