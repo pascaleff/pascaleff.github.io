@@ -48,7 +48,7 @@ You can see my [[file:cv.html][full CV here]].
 
 ** Research articles
    - [[https://jpascale.web.illinois.edu/papers/higher-fukaya-categories.pdf][Speculations on higher Fukaya categories]],\\
-     with Nicolò Sibilla.
+     with Nicolò Sibilla, [[https://arxiv.org/abs/2503.20906][arXiv:2503.20906]].
 
    - [[https://jpascale.web.illinois.edu/papers/Koszul_duality.pdf][Higher Koszul duality and n-affineness]],\\
      with Emanuele Pavia and Nicolò Sibilla. (arXiv:2501.10241v1 was split into two parts: this is part two.)
