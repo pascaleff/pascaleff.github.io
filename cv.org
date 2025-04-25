@@ -58,7 +58,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
   8. (with Nicolò Sibilla) Singularity categories of normal crossings surfaces, descent, and mirror symmetry. ([[https://arxiv.org/abs/2208.03896][arXiv:2208.03896]])
   9. Remarks on the equivalence between differential graded categories and A-infinity categories. /Homology, Homotopy and Applications/, vol. 26(1), 2024, pp. 275--285. ([[https://arxiv.org/abs/2211.05861][arXiv:2211.05861]])
   10. (with Emanuele Pavia and Nicolò Sibilla) Higher local systems and the categorified monodromy equivalence. ([[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]])
-  11. (with Emanuele Pavia and Nicolò Sibilla) Higher Koszul duality and n-affineness.
+  11. (with Emanuele Pavia and Nicolò Sibilla) Higher Koszul duality and n-affineness. ([[https://arxiv.org/abs/2504.16935][arXiv:2504.16935]])
   12. (with Nicolò Sibilla) Speculations on higher Fukaya categories. ([[https://arxiv.org/abs/2503.20906][arXiv:2503.20906]])
 
 * Talks

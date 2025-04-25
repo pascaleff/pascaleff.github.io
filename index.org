@@ -51,7 +51,7 @@ You can see my [[file:cv.html][full CV here]].
      with Nicolò Sibilla, [[https://arxiv.org/abs/2503.20906][arXiv:2503.20906]].
 
    - [[https://jpascale.web.illinois.edu/papers/Koszul_duality.pdf][Higher Koszul duality and n-affineness]],\\
-     with Emanuele Pavia and Nicolò Sibilla. (arXiv:2501.10241v1 was split into two parts: this is part two.)
+     with Emanuele Pavia and Nicolò Sibilla, [[https://arxiv.org/abs/2504.16935][arXiv:2504.16935]]. (arXiv:2501.10241v1 was split into two parts: this is part two.)
 
    - [[https://jpascale.web.illinois.edu/papers/Local_systems.pdf][Higher local systems and the categorified monodromy equivalence]],\\
      with Emanuele Pavia and Nicolò Sibilla, [[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]]. (arXiv:2501.10241v1 was split into two parts: this is part one.)
