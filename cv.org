@@ -201,10 +201,10 @@ Website: [[http://pascaleff.com][pascaleff.com]]
       /Toward Higher Fukaya Categories./
       
 * Teaching and Mentoring
-** Ph.D. students
-   - Jesse Huang (UIUC, Ph.D. 2021. Subsequent position: PIMS Postdoc at the University of Alberta)
-   - Omar Musleh (UIUC, Ph.D. 2025)
-   - Jie Yeo (UIUC, started Fall 2022)
+** Ph.D. students (all at UIUC)
+   - Jesse Huang, Ph.D. 2021. Subsequent position: PIMS Postdoc at the University of Alberta.
+   - Omar Musleh, Ph.D. 2025. Subsequent position: Assistant Professor at the Jordan University of Science and Technology (JUST).
+   - Jie Yeo. (started Fall 2022)
 
 ** UIUC
    (*TRE* = List of teachers ranked as excellent by their students.)
