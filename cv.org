@@ -202,8 +202,8 @@ Website: [[http://pascaleff.com][pascaleff.com]]
       
 * Teaching and Mentoring
 ** Ph.D. students (all at UIUC)
-   - Jesse Huang, Ph.D. 2021. Subsequent position: PIMS Postdoc at the University of Alberta.
-   - Omar Musleh, Ph.D. 2025. Subsequent position: Assistant Professor at the Jordan University of Science and Technology (JUST).
+   - Jesse Huang, "Toric mirror symmetry and GIT windows," Ph.D. 2021. Subsequent position: PIMS Postdoc at the University of Alberta.
+   - Omar Musleh, "A-infinity algebras on directed graphs," Ph.D. 2025. Subsequent position: Assistant Professor at the Jordan University of Science and Technology (JUST).
    - Jie Yeo. (started Fall 2022)
 
 ** UIUC
