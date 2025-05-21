@@ -22,7 +22,7 @@ You can see my [[file:cv.html][full CV here]].
 * Courses
 
 ** Current teaching
-- Fall 2025: [[https://jpascale.web.illinois.edu/courses/2D-TFT-595fa25.pdf][Topological Field Theories in Two Dimensions]]
+- Fall 2025: [[https://jpascale.web.illinois.edu/courses/2D-TFT-595fa25.pdf][Topological Field Theories in Two Dimensions]] (Math 595 Section TFT).
 - Spring 2025: [[https://canvas.illinois.edu/courses/55436][Math 525 Algebraic Topology I]], MWF 10:00--10:50am.
 - Spring 2025: [[https://canvas.illinois.edu/courses/55434][Math 417 Introduction to Abstract Algebra]], Section D13/D14, MWF 11:00--11:50am.
 - [[file:courses.html][All previous courses and seminars]]
