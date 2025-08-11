@@ -199,6 +199,8 @@ Website: [[http://pascaleff.com][pascaleff.com]]
       /Fukaya categories of surfaces and pants decompositions./
   67. Mar. 2025, Hong Kong Geometry Colloquium/Mathematics Inspired by String Theory (MIST) Workshop, Chinese University of Hong Kong.\\
       /Toward Higher Fukaya Categories./
+  68. Aug. 2025, Representations, Moduli and Duality, SwissMAP Research Station in Les Diablerets.\\
+      /Toward Higher Fukaya Categories./
       
 * Teaching and Mentoring
 ** Ph.D. students (all at UIUC)
