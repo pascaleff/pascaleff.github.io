@@ -201,6 +201,8 @@ Website: [[http://pascaleff.com][pascaleff.com]]
       /Toward Higher Fukaya Categories./
   68. Aug. 2025, Representations, Moduli and Duality, SwissMAP Research Station in Les Diablerets.\\
       /Toward Higher Fukaya Categories./
+  69. Sep. 2025, MIT Symplectic Seminar.\\
+      /Categorical Local Systems and Higher Fukaya Categories./
       
 * Teaching and Mentoring
 ** Ph.D. students (all at UIUC)
