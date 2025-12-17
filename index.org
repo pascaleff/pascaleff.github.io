@@ -23,11 +23,11 @@ You can see my [[file:cv.html][full CV here]].
 
 ** Current teaching
 - Spring 2026: Vector and Tensor Analysis (Math 481). 
-- Fall 2025: [[http://jpascale.web.illinois.edu/courses/595fa25/][Topological field theories in two dimensions]], [[https://jpascale.web.illinois.edu/courses/2D-TFT-595fa25.pdf][Flyer]] (Math 595 Section TFT).
 - [[file:courses.html][All previous courses and seminars]]
 
 ** Selected past teaching
 *** Graduate topics courses
+- Fall 2025: [[http://jpascale.web.illinois.edu/courses/595fa25/][Topological field theories in two dimensions]].
 - Fall 2022: [[https://pascaleff.github.io/595fa22/][Fukaya Categories of Surfaces]]
 - Spring 2018: [[https://jpascale.web.illinois.edu/courses/2018/595/][Homological Mirror Symmetry]]
 - Spring 2014: [[https://jpascale.web.illinois.edu/courses/2014/m392c/][Lagrangian Floer Homology]]

@@ -1,6 +1,7 @@
 #+TITLE: James Pascaleff's Courses and Seminars
 
 * University of Illinois
+  - Fall 2025: [[http://jpascale.web.illinois.edu/courses/595fa25/][Topological field theories in two dimensions]] (Math 595)
   - Spring 2025: [[https://canvas.illinois.edu/courses/55436][Algebraic Topology I]] (Math 525)
   - Spring 2025: [[https://canvas.illinois.edu/courses/55434][Introduction to Abstract Algebra]] (Math 417)
   - Fall 2024: [[https://canvas.illinois.edu/courses/49655][Fundamental Mathematics]] (Math 347)
