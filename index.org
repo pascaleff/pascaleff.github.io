@@ -22,7 +22,7 @@ You can see my [[file:cv.html][full CV here]].
 * Courses
 
 ** Current teaching
-- Spring 2026: Vector and Tensor Analysis (Math 481). 
+- Spring 2026: [[https://canvas.illinois.edu/courses/65257][Vector and Tensor Analysis (Math 481)]]. 
 - [[file:courses.html][All previous courses and seminars]]
 
 ** Selected past teaching
