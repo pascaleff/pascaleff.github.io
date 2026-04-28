@@ -1,3 +1,4 @@
+
 #+TITLE: Curriculum Vitæ of James Pascaleff
 
 * Contact
@@ -203,7 +204,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
       /Toward Higher Fukaya Categories./
   69. Sep. 2025, MIT Symplectic Seminar.\\
       /Categorical Local Systems and Higher Fukaya Categories./
-  70. Apr. 2026, 3D Mirror Symmetry Seminar, Berkeley/UIUC (online).
+  70. Apr. 2026, 3D Mirror Symmetry Seminar, Berkeley/UIUC (online).\\
       /Categorical Local Systems and Higher Fukaya Categories./
       
 * Teaching and Mentoring
