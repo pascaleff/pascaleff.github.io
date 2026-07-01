@@ -219,6 +219,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
    - Spring 2025: Algebraic Topology I (Math 525)
    - Spring 2025: Introduction to Abstract Algebra (Math 417)
    - Fall 2024: Fundamental Mathematics (Math 347, merit section)
+   - Spring 2024: Illinois Geometry Lab Project, Scattering Diagrams and Broken Lines (4 undergraduate researchers)
    - Spring 2024: Differentiable Manifolds II (Math 519)^{*TRE*}
    - Spring 2024: Fundamental Mathematics (Math 347)
    - Fall 2023: Introduction to Abstract Algebra (MATH 417)
@@ -229,8 +230,8 @@ Website: [[http://pascaleff.com][pascaleff.com]]
    - Spring 2020: Vector and Tensor Analysis (MATH 481)^{*TRE*}
    - Fall 2019: Introduction to Abstract Algebra (MATH 417)^{*TRE*}
    - Fall 2019: Riemann Surfaces and Algebraic Curves (MATH 510)^{*TRE*}
-   - Spring 2019: Illinois Geometry Lab Project, Homological Algebra of Quiver Representations (5 undergraduate researchers).
-   - Fall 2018: Illinois Geometry Lab Project, Geometric Group Actions on Categories (5 undergraduate researchers).
+   - Spring 2019: Illinois Geometry Lab Project, Homological Algebra of Quiver Representations (5 undergraduate researchers)
+   - Fall 2018: Illinois Geometry Lab Project, Geometric Group Actions on Categories (5 undergraduate researchers)
    - Fall 2018: Calculus III (MATH 241, 2 sections)
    - Spring 2018: Homological Mirror Symmetry (graduate topic course, MATH 595)^{*TRE*}
    - Spring 2018: Introduction to Abstract Algebra (MATH 417)^{*TRE*}
@@ -294,7 +295,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
    - Final examination committees for Daan Michiels (March 27, 2018),
      Joel Villatoro (April 26, 2018), Matej Penciak (June 17, 2019;
      committee chair), Jesse Huang (May 5, 2021), Yuxuan Zhang (May
-     27, 2022), Sungwoo Nam (June 2, 2023), Shuyu Xiao (April 3, 2024), Jonghyeon Ahn (April 8, 2025), Omar Musleh (April 10, 2025), Ciaran O'Neill (November 6, 2025).
+     27, 2022), Sungwoo Nam (June 2, 2023), Shuyu Xiao (April 3, 2024), Jonghyeon Ahn (April 8, 2025), Omar Musleh (April 10, 2025), Ciaran O'Neill (November 6, 2025), Sambit Senapati (June 8, 2026).
    - Reviewer for the Campus Research Board.
    - Mathematics Department Executive Committee (2020--2021). /This elected committee is responsible for all budgetary decisions, faculty hiring, and the yearly faculty evaluation for raises./
    - Graduate affairs committee (2019--2020).
