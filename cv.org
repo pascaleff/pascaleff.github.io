@@ -61,6 +61,7 @@ Website: [[http://pascaleff.com][pascaleff.com]]
   10. (with Emanuele Pavia and Nicolò Sibilla) Higher local systems and the categorified monodromy equivalence. ([[https://arxiv.org/abs/2501.10241][arxiv:2501.10241]])
   11. (with Emanuele Pavia and Nicolò Sibilla) Higher Koszul duality and n-affineness. ([[https://arxiv.org/abs/2504.16935][arXiv:2504.16935]])
   12. (with Nicolò Sibilla) Speculations on higher Fukaya categories. ([[https://arxiv.org/abs/2503.20906][arXiv:2503.20906]])
+  13. Examples of homological mirror symmetry via Zariski descent. ([[https://arxiv.org/abs/2611.14310][arXiv:2611.14310]])
 
 * Talks
   1. Dec. 2010, Northern California Symplectic Geometry Seminar, Stanford University.\\
@@ -206,6 +207,8 @@ Website: [[http://pascaleff.com][pascaleff.com]]
       /Categorical Local Systems and Higher Fukaya Categories./
   70. Apr. 2026, 3D Mirror Symmetry Seminar, Berkeley/UIUC (online).\\
       /Categorical Local Systems and Higher Fukaya Categories./
+  71. Nov. 2026, Geometry, Topology and Categories Seminar, SISSA.\\
+      /Homological mirror symmetry and Zariski descent./
       
 * Teaching and Mentoring
 ** Ph.D. students (all at UIUC)
